@@ -1,7 +1,3 @@
-# Machine Learning Notes
-This repo is used for taking notes of Machine Learning.  
-Created and edited by PionC.
-
 # Overview
   **Definition of Machine Learning:**  
 An algorithm that is able to learn from data.
