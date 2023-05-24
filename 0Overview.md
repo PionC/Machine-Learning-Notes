@@ -22,3 +22,5 @@ Find something in unlabeled data (without lables). Algorithm has to find structu
     * Dimiensionality Reduction: Compress data using fewer numbers.
 
 * **Reinforrcement Learning:**
+### **Terminology**
+* (x, y) means single training example, and $(x^{(i)}, y^{(i)})$ means the $i^{th}$ training example.
