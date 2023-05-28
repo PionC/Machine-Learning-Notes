@@ -15,7 +15,7 @@ Aim to predict categories with small number of possible outputs.
 # **Cost Function**
 Aim to measure the error between the prediction $\widehat{y}$ and the true ground $y$. 
 ## 1. The Square Error Cost Function
-$J(w,b) = \frac{1}{2m}\sum_{n=1}^m(\widehat{y}^{(i)}-y^{(i)})^2$.  
+$J(w,b) = \frac{1}{2m}\displaystyle\sum_{n=1}^m(\widehat{y}^{(i)}-y^{(i)})^2$.  
 In the formula, there is $\widehat{y}^{(i)}=f_{w,b}(x^{(i)})$.  
 Here, $m$ is the number of training examples.
 
